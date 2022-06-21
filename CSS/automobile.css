@@ -1,0 +1,53 @@
+@charset "UTF-8";
+.automobile {
+  position: relative;
+  padding: 48px 0 79px 0;
+  background: url("../img/Темная подложка.png") center center/cover, no-repeat;
+}
+.automobile_label {
+  margin: 0 auto;
+  text-align: center;
+  padding: 5px 12px;
+  width: 112px;
+  height: 24px;
+  background: #FFFFFF;
+  font-weight: 300;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #070716;
+}
+.automobile_title {
+  margin-bottom: 0;
+  margin-top: 38px;
+  font-weight: 700;
+  font-size: 38px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.automobile_subtitle {
+  margin-top: 0 auto;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.automobile_wrap-image {
+  text-align: center;
+}
+.automobile_item {
+  margin-top: 70px;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 24px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  color: #222222;
+}
+.automobile_decription {
+  min-height: 380px;
+  background: url("../img/mobile_bg.png") center center/cover, no-repeat;
+}
